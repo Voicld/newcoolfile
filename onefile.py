@@ -1,1 +1,3 @@
-print(1+3)
+a = 3
+b = 7
+print(a+b)
